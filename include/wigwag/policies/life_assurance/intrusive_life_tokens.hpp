@@ -13,6 +13,7 @@
 
 #include <wigwag/detail/annotations.hpp>
 #include <wigwag/detail/config.hpp>
+#include <wigwag/detail/intrusive_ptr.hpp>
 #include <wigwag/policies/life_assurance/tag.hpp>
 
 #include <atomic>
